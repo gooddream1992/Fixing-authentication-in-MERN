@@ -1,0 +1,8 @@
+.jodit_container {
+    min-height: 410px!important;
+}
+.jodit_workplace {
+    min-height: 330px!important;
+    height: 330px!important;
+    overflow: auto;
+}
